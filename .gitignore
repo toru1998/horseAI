@@ -129,7 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+dev.ipynb
 # Spyder project settings
 .spyderproject
 .spyproject
